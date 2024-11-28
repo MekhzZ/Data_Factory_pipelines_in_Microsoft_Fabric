@@ -17,6 +17,9 @@ Additionally, I’ve included a certificate of completion to highlight my achiev
 - Building ETL pipepline with low-no-code technique.
 - Leveraging Microsoft Fabric for an integrated big data and analytics experience.
 
+## Practical Video
+- 🎥 **[Click here to access my practical video of this module](https://1drv.ms/v/c/97f480433f2cbfa1/EZ8w452N81NJlUBD1D3daJ4BBIRVRtVpSc3bNWpSyt7kXw?e=3ZbHkK)** 
+
 ## Useful Links
 - 📜 **[Microsoft Learn Challenge | Ignite Edition](https://learn.microsoft.com/en-us/training/topics/event-challenges?wt.mc_id=ignite24_learnbanner_tier1_cnl&tabs=fabric)** 
 
